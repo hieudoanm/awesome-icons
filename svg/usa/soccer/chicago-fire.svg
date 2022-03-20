@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 690 690"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="CHI_Logo-2021.svg"
+   width="690"
+   height="690"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.09125"
+     inkscape:cx="345.01718"
+     inkscape:cy="345.01718"
+     inkscape:window-width="2560"
+     inkscape:window-height="1387"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <path
+     d="M 345,0 C 154.77,0 0,154.77 0,345 0,535.23 154.77,690 345,690 535.23,690 690,535.23 690,345 690,154.77 535.23,0 345,0 Z"
+     style="fill:#141946"
+     id="path2" />
+  <circle
+     cx="345"
+     cy="345"
+     r="320.14001"
+     style="fill:#ffffff"
+     id="circle4" />
+  <path
+     d="m 508.44,496.69 54,39.28 c 95.76,-108.88 95.76,-273.06 0,-381.94 l -54,39.28 q -5.66,-6.09 -11.75,-11.75 l 39.28,-54 C 427.09,31.8 262.91,31.8 154.03,127.56 l 39.28,54 q -6.09,5.66 -11.75,11.75 l -54,-39.28 c -95.76,108.88 -95.76,273.06 0,381.94 l 54,-39.28 q 5.66,6.09 11.75,11.75 l -39.28,54 c 108.88,95.76 273.06,95.76 381.94,0 l -39.28,-54 q 6.09,-5.66 11.75,-11.75 z M 345,549.16 c -112.57,0 -204.16,-91.59 -204.16,-204.16 0,-112.57 91.59,-204.16 204.16,-204.16 112.57,0 204.16,91.59 204.16,204.16 0,112.57 -91.59,204.16 -204.16,204.16 z"
+     style="fill:#7ccdef"
+     id="path6" />
+  <polygon
+     points="387.52,377.56 338.38,362.99 375.09,399.99 338.38,436.99 387.52,422.46 400,474.05 412.45,422.46 461.63,436.99 424.89,399.99 461.63,362.99 412.45,377.56 400,325.95 "
+     style="fill:#ff0000"
+     id="polygon8"
+     transform="translate(-55,-55)" />
+  <polygon
+     points="487.21,260.23 312.79,260.23 260.23,312.79 260.23,374.35 234.58,400 260.23,425.65 260.23,487.21 312.79,539.77 487.21,539.77 539.77,487.21 539.77,437.2 486.73,437.2 486.73,471.18 471.18,486.73 328.82,486.73 313.27,471.18 313.27,328.82 328.82,313.27 471.18,313.27 486.73,328.82 486.73,362.8 539.77,362.8 539.77,312.79 "
+     style="fill:#ff0000"
+     id="polygon10"
+     transform="translate(-55,-55)" />
+</svg>

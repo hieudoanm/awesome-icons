@@ -1,0 +1,32 @@
+name: Docs
+
+on:
+  push:
+    branches: [master]
+
+jobs:
+  github-actions:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        # node-version: [16.x, 14.x, 12.x]
+        # os: [ubuntu-latest, macos-latest, windows-latest]
+        node-version: [16.x]
+        os: [ubuntu-latest]
+    name: Node.js ${{ matrix.node-version }} ${{ matrix.os }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Install Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: ${{ matrix.node-version }}
+      - name: Install Docsify CLI
+        run: yarn global add docsify-cli
+      - name: Bundle Docs
+        run: docsify init docs
+      - name: Deploy GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4.2.5
+        with:
+          branch: gh-pages
+          folder: docs
