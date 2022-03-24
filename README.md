@@ -1,6 +1,6 @@
-# Icons (703)
+# Icons (721)
 
-## big-tech (102)
+## big-tech (116)
 
 ### adobe (5)
 
@@ -507,8 +507,13 @@
   </a>
 </div>
 
-### microsoft (6)
+### microsoft (20)
 
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/access.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/access.svg" alt="access.svg" title="access.svg" height="32px" />
+  </a>
+</div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/azure.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/azure.svg" alt="azure.svg" title="azure.svg" height="32px" />
@@ -517,6 +522,11 @@
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/edge.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/edge.svg" alt="edge.svg" title="edge.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/excel.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/excel.svg" alt="excel.svg" title="excel.svg" height="32px" />
   </a>
 </div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
@@ -530,6 +540,56 @@
   </a>
 </div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/office.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/office.svg" alt="office.svg" title="office.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/one-note.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/one-note.svg" alt="one-note.svg" title="one-note.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/onedrive.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/onedrive.svg" alt="onedrive.svg" title="onedrive.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/outlook.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/outlook.svg" alt="outlook.svg" title="outlook.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/power-point.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/power-point.svg" alt="power-point.svg" title="power-point.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/project.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/project.svg" alt="project.svg" title="project.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/publisher.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/publisher.svg" alt="publisher.svg" title="publisher.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/share-point.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/share-point.svg" alt="share-point.svg" title="share-point.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/teams.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/teams.svg" alt="teams.svg" title="teams.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/visio.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/visio.svg" alt="visio.svg" title="visio.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/vscode.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/vscode.svg" alt="vscode.svg" title="vscode.svg" height="32px" />
   </a>
@@ -537,6 +597,16 @@
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/windows.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/windows.svg" alt="windows.svg" title="windows.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/word.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/word.svg" alt="word.svg" title="word.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/yammer.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/yammer.svg" alt="yammer.svg" title="yammer.svg" height="32px" />
   </a>
 </div>
 
@@ -2792,7 +2862,7 @@
   </a>
 </div>
 
-## software (7)
+## software (11)
 
 ### music (2)
 
@@ -2807,6 +2877,14 @@
   </a>
 </div>
 
+### note (1)
+
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/note/evernote.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/note/evernote.svg" alt="evernote.svg" title="evernote.svg" height="32px" />
+  </a>
+</div>
+
 ### photo (2)
 
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
@@ -2817,6 +2895,24 @@
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/photo/unsplash.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/photo/unsplash.svg" alt="unsplash.svg" title="unsplash.svg" height="32px" />
+  </a>
+</div>
+
+### search (3)
+
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/search/ask.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/search/ask.svg" alt="ask.svg" title="ask.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/search/duck-duck-go.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/search/duck-duck-go.svg" alt="duck-duck-go.svg" title="duck-duck-go.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/search/ecosia.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/search/ecosia.svg" alt="ecosia.svg" title="ecosia.svg" height="32px" />
   </a>
 </div>
 
