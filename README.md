@@ -1,6 +1,6 @@
-# Icons (482)
+# Icons (504)
 
-## big-tech (48)
+## big-tech (61)
 
 ### apache (4)
 
@@ -13,6 +13,14 @@
 
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/apple/apple-app-store.svg" alt="apple-app-store.svg" title="apple-app-store.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/apple/apple-app-store.svg)
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/apple/apple-pay.svg" alt="apple-pay.svg" title="apple-pay.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/apple/apple-pay.svg)
+
+### atlassian (5)
+
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/atlassian/atlassian.svg" alt="atlassian.svg" title="atlassian.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/atlassian/atlassian.svg)
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/atlassian/bitbucket.svg" alt="bitbucket.svg" title="bitbucket.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/atlassian/bitbucket.svg)
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/atlassian/confluence.svg" alt="confluence.svg" title="confluence.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/atlassian/confluence.svg)
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/atlassian/jira.svg" alt="jira.svg" title="jira.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/atlassian/jira.svg)
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/atlassian/trello.svg" alt="trello.svg" title="trello.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/atlassian/trello.svg)
 
 ### aws (24)
 
@@ -41,35 +49,46 @@
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/aws/aws-waf.svg" alt="aws-waf.svg" title="aws-waf.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/aws/aws-waf.svg)
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/aws/aws.svg" alt="aws.svg" title="aws.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/aws/aws.svg)
 
-### facebook (3)
-
-[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/facebook/facebook.svg" alt="facebook.svg" title="facebook.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/facebook/facebook.svg)
-[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/facebook/instagram.svg" alt="instagram.svg" title="instagram.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/facebook/instagram.svg)
-[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/facebook/messenger.svg" alt="messenger.svg" title="messenger.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/facebook/messenger.svg)
-
 ### fintech (2)
 
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/fintech/mastercard.svg" alt="mastercard.svg" title="mastercard.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/fintech/mastercard.svg)
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/fintech/visa.svg" alt="visa.svg" title="visa.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/fintech/visa.svg)
 
-### google (10)
+### google (11)
 
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/google/calendar.svg" alt="calendar.svg" title="calendar.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/google/calendar.svg)
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/google/chrome.svg" alt="chrome.svg" title="chrome.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/google/chrome.svg)
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/google/cloud.svg" alt="cloud.svg" title="cloud.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/google/cloud.svg)
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/google/drive.svg" alt="drive.svg" title="drive.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/google/drive.svg)
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/google/fit.svg" alt="fit.svg" title="fit.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/google/fit.svg)
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/google/gmail.svg" alt="gmail.svg" title="gmail.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/google/gmail.svg)
-[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/google/google-cloud.svg" alt="google-cloud.svg" title="google-cloud.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/google/google-cloud.svg)
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/google/google.svg" alt="google.svg" title="google.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/google/google.svg)
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/google/maps.svg" alt="maps.svg" title="maps.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/google/maps.svg)
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/google/translate.svg" alt="translate.svg" title="translate.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/google/translate.svg)
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/google/web-rtc.svg" alt="web-rtc.svg" title="web-rtc.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/google/web-rtc.svg)
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/google/youtube.svg" alt="youtube.svg" title="youtube.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/google/youtube.svg)
 
-### microsoft (3)
+### meta (7)
+
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/meta/facebook.svg" alt="facebook.svg" title="facebook.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/meta/facebook.svg)
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/meta/giphy.svg" alt="giphy.svg" title="giphy.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/meta/giphy.svg)
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/meta/instagram.svg" alt="instagram.svg" title="instagram.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/meta/instagram.svg)
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/meta/messenger.svg" alt="messenger.svg" title="messenger.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/meta/messenger.svg)
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/meta/meta.svg" alt="meta.svg" title="meta.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/meta/meta.svg)
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/meta/oculus.svg" alt="oculus.svg" title="oculus.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/meta/oculus.svg)
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/meta/whatsapp.svg" alt="whatsapp.svg" title="whatsapp.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/meta/whatsapp.svg)
+
+### microsoft (4)
 
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/microsoft/azure.svg" alt="azure.svg" title="azure.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/microsoft/azure.svg)
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/microsoft/edge.svg" alt="edge.svg" title="edge.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/microsoft/edge.svg)
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/microsoft/github.svg" alt="github.svg" title="github.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/microsoft/github.svg)
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/microsoft/linkedin.svg" alt="linkedin.svg" title="linkedin.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/microsoft/linkedin.svg)
+
+### other (2)
+
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/other/ibm.svg" alt="ibm.svg" title="ibm.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/other/ibm.svg)
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/other/twitter.svg" alt="twitter.svg" title="twitter.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/big-tech/other/twitter.svg)
 
 ## country (195)
 
@@ -283,7 +302,7 @@
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/country/oceania/tuvalu.svg" alt="tuvalu.svg" title="tuvalu.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/country/oceania/tuvalu.svg)
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/country/oceania/vanuatu.svg" alt="vanuatu.svg" title="vanuatu.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/country/oceania/vanuatu.svg)
 
-## dev-ops (39)
+## dev-ops (44)
 
 ### ci-cd (2)
 
@@ -298,6 +317,14 @@
 ### iaas (1)
 
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/dev-ops/iaas/digital-ocean.svg" alt="digital-ocean.svg" title="digital-ocean.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/dev-ops/iaas/digital-ocean.svg)
+
+### iac (5)
+
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/dev-ops/iac/ansible.svg" alt="ansible.svg" title="ansible.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/dev-ops/iac/ansible.svg)
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/dev-ops/iac/docker.svg" alt="docker.svg" title="docker.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/dev-ops/iac/docker.svg)
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/dev-ops/iac/kubernetes.svg" alt="kubernetes.svg" title="kubernetes.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/dev-ops/iac/kubernetes.svg)
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/dev-ops/iac/terraform.svg" alt="terraform.svg" title="terraform.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/dev-ops/iac/terraform.svg)
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/dev-ops/iac/vagrant.svg" alt="vagrant.svg" title="vagrant.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/dev-ops/iac/vagrant.svg)
 
 ### os (7)
 
@@ -342,7 +369,17 @@
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/dev-ops/saas/unsplash.svg" alt="unsplash.svg" title="unsplash.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/dev-ops/saas/unsplash.svg)
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/dev-ops/saas/wordpress.svg" alt="wordpress.svg" title="wordpress.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/dev-ops/saas/wordpress.svg)
 
-## development (119)
+## development (113)
+
+### api (2)
+
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/api/insomnia.svg" alt="insomnia.svg" title="insomnia.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/api/insomnia.svg)
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/api/postman.svg" alt="postman.svg" title="postman.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/api/postman.svg)
+
+### bundle (2)
+
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/bundle/babel.svg" alt="babel.svg" title="babel.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/bundle/babel.svg)
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/bundle/webpack.svg" alt="webpack.svg" title="webpack.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/bundle/webpack.svg)
 
 ### crypto (41)
 
@@ -436,6 +473,15 @@
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/ide/unity.svg" alt="unity.svg" title="unity.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/ide/unity.svg)
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/ide/vscode.svg" alt="vscode.svg" title="vscode.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/ide/vscode.svg)
 
+### log (1)
+
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/log/splunk.svg" alt="splunk.svg" title="splunk.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/log/splunk.svg)
+
+### message-broker (2)
+
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/message-broker/kafka.svg" alt="kafka.svg" title="kafka.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/message-broker/kafka.svg)
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/message-broker/rabbitmq.svg" alt="rabbitmq.svg" title="rabbitmq.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/message-broker/rabbitmq.svg)
+
 ### package-manager (3)
 
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/package-manager/bower.svg" alt="bower.svg" title="bower.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/package-manager/bower.svg)
@@ -458,39 +504,35 @@
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/programming/swift.svg" alt="swift.svg" title="swift.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/programming/swift.svg)
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/programming/typescript.svg" alt="typescript.svg" title="typescript.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/programming/typescript.svg)
 
+### python (1)
+
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/python/numpy.svg" alt="numpy.svg" title="numpy.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/python/numpy.svg)
+
 ### runtime (2)
 
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/runtime/deno.svg" alt="deno.svg" title="deno.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/runtime/deno.svg)
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/runtime/node.js.svg" alt="node.js.svg" title="node.js.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/runtime/node.js.svg)
 
-### software (24)
+### software (5)
 
-[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/ansible.svg" alt="ansible.svg" title="ansible.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/ansible.svg)
-[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/babel.svg" alt="babel.svg" title="babel.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/babel.svg)
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/bash.svg" alt="bash.svg" title="bash.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/bash.svg)
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/bluetooth.svg" alt="bluetooth.svg" title="bluetooth.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/bluetooth.svg)
-[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/docker.svg" alt="docker.svg" title="docker.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/docker.svg)
-[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/git.svg" alt="git.svg" title="git.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/git.svg)
-[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/ibm.svg" alt="ibm.svg" title="ibm.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/ibm.svg)
-[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/insomnia.svg" alt="insomnia.svg" title="insomnia.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/insomnia.svg)
-[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/jest.svg" alt="jest.svg" title="jest.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/jest.svg)
-[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/kafka.svg" alt="kafka.svg" title="kafka.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/kafka.svg)
-[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/karma.svg" alt="karma.svg" title="karma.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/karma.svg)
-[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/kubernetes.svg" alt="kubernetes.svg" title="kubernetes.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/kubernetes.svg)
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/nginx.svg" alt="nginx.svg" title="nginx.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/nginx.svg)
-[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/numpy.svg" alt="numpy.svg" title="numpy.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/numpy.svg)
-[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/postman.svg" alt="postman.svg" title="postman.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/postman.svg)
-[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/protactor.svg" alt="protactor.svg" title="protactor.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/protactor.svg)
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/pwa.svg" alt="pwa.svg" title="pwa.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/pwa.svg)
-[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/rabbitmq.svg" alt="rabbitmq.svg" title="rabbitmq.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/rabbitmq.svg)
-[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/splunk.svg" alt="splunk.svg" title="splunk.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/splunk.svg)
-[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/terraform.svg" alt="terraform.svg" title="terraform.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/terraform.svg)
-[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/twitter.svg" alt="twitter.svg" title="twitter.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/twitter.svg)
-[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/vagrant.svg" alt="vagrant.svg" title="vagrant.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/vagrant.svg)
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/web-assembly.svg" alt="web-assembly.svg" title="web-assembly.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/web-assembly.svg)
-[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/webpack.svg" alt="webpack.svg" title="webpack.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/software/webpack.svg)
 
-## football (32)
+### test (3)
+
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/test/jest.svg" alt="jest.svg" title="jest.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/test/jest.svg)
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/test/karma.svg" alt="karma.svg" title="karma.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/test/karma.svg)
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/test/protactor.svg" alt="protactor.svg" title="protactor.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/test/protactor.svg)
+
+### version-control (2)
+
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/version-control/git.svg" alt="git.svg" title="git.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/version-control/git.svg)
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/version-control/gitlab.svg" alt="gitlab.svg" title="gitlab.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/development/version-control/gitlab.svg)
+
+## football (42)
 
 ### england (13)
 
@@ -508,14 +550,24 @@
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/football/england/west-ham-united.svg" alt="west-ham-united.svg" title="west-ham-united.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/football/england/west-ham-united.svg)
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/football/england/wolverhampton-wanderers.svg" alt="wolverhampton-wanderers.svg" title="wolverhampton-wanderers.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/football/england/wolverhampton-wanderers.svg)
 
-### france (1)
+### france (6)
 
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/football/france/lille.svg" alt="lille.svg" title="lille.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/football/france/lille.svg)
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/football/france/lyon.svg" alt="lyon.svg" title="lyon.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/football/france/lyon.svg)
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/football/france/marseille.svg" alt="marseille.svg" title="marseille.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/football/france/marseille.svg)
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/football/france/montpellier.svg" alt="montpellier.svg" title="montpellier.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/football/france/montpellier.svg)
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/football/france/nice.svg" alt="nice.svg" title="nice.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/football/france/nice.svg)
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/football/france/paris-saint-germain.svg" alt="paris-saint-germain.svg" title="paris-saint-germain.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/football/france/paris-saint-germain.svg)
 
-### germany (2)
+### germany (7)
 
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/football/germany/bayer-04-leverkusen.svg" alt="bayer-04-leverkusen.svg" title="bayer-04-leverkusen.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/football/germany/bayer-04-leverkusen.svg)
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/football/germany/bayern-munich.svg" alt="bayern-munich.svg" title="bayern-munich.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/football/germany/bayern-munich.svg)
 [<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/football/germany/borussia-dortmund.svg" alt="borussia-dortmund.svg" title="borussia-dortmund.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/football/germany/borussia-dortmund.svg)
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/football/germany/eintracht-frankfurt.svg" alt="eintracht-frankfurt.svg" title="eintracht-frankfurt.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/football/germany/eintracht-frankfurt.svg)
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/football/germany/mainz-05.svg" alt="mainz-05.svg" title="mainz-05.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/football/germany/mainz-05.svg)
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/football/germany/rb-leipzig.svg" alt="rb-leipzig.svg" title="rb-leipzig.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/football/germany/rb-leipzig.svg)
+[<div><img src="https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/football/germany/stuttgart.svg" alt="stuttgart.svg" title="stuttgart.svg" width="128px" height="128px" /></div>](https://raw.githubusercontent.com/hieudoanm/hieudoan.design/master/svg/football/germany/stuttgart.svg)
 
 ### italy (5)
 
