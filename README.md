@@ -1,6 +1,6 @@
-# Icons (632)
+# Icons (666)
 
-## big-tech (70)
+## big-tech (72)
 
 ### adobe (5)
 
@@ -30,13 +30,8 @@
   </a>
 </div>
 
-### apache (4)
+### apache (3)
 
-<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
-  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/apache/apache.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/apache/apache.svg" alt="apache.svg" title="apache.svg" height="32px" />
-  </a>
-</div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/apache/cassandra.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/apache/cassandra.svg" alt="cassandra.svg" title="cassandra.svg" height="32px" />
@@ -53,21 +48,36 @@
   </a>
 </div>
 
-### apple (3)
+### apple (6)
 
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
-  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/apple/apple-app-store.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/apple/apple-app-store.svg" alt="apple-app-store.svg" title="apple-app-store.svg" height="32px" />
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/apple/app-store.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/apple/app-store.svg" alt="app-store.svg" title="app-store.svg" height="32px" />
   </a>
 </div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
-  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/apple/apple-pay.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/apple/apple-pay.svg" alt="apple-pay.svg" title="apple-pay.svg" height="32px" />
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/apple/apple.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/apple/apple.svg" alt="apple.svg" title="apple.svg" height="32px" />
   </a>
 </div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/apple/ios.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/apple/ios.svg" alt="ios.svg" title="ios.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/apple/music.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/apple/music.svg" alt="music.svg" title="music.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/apple/pay.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/apple/pay.svg" alt="pay.svg" title="pay.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/apple/tv.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/apple/tv.svg" alt="tv.svg" title="tv.svg" height="32px" />
   </a>
 </div>
 
@@ -2672,7 +2682,7 @@
   </a>
 </div>
 
-## usa (130)
+## usa (162)
 
 ### basketball (30)
 
@@ -3077,6 +3087,169 @@
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/flags/wyoming.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/flags/wyoming.svg" alt="wyoming.svg" title="wyoming.svg" height="32px" />
+  </a>
+</div>
+
+### football (32)
+
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/arizona-cardinals.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/arizona-cardinals.svg" alt="arizona-cardinals.svg" title="arizona-cardinals.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/atlanta-falcons.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/atlanta-falcons.svg" alt="atlanta-falcons.svg" title="atlanta-falcons.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/baltimore-ravens.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/baltimore-ravens.svg" alt="baltimore-ravens.svg" title="baltimore-ravens.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/buffalo-bills.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/buffalo-bills.svg" alt="buffalo-bills.svg" title="buffalo-bills.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/carolina-panthers.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/carolina-panthers.svg" alt="carolina-panthers.svg" title="carolina-panthers.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/chicago-bears.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/chicago-bears.svg" alt="chicago-bears.svg" title="chicago-bears.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/cincinnati-bengals.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/cincinnati-bengals.svg" alt="cincinnati-bengals.svg" title="cincinnati-bengals.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/cleveland-browns.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/cleveland-browns.svg" alt="cleveland-browns.svg" title="cleveland-browns.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/dallas-cowboys.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/dallas-cowboys.svg" alt="dallas-cowboys.svg" title="dallas-cowboys.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/denver-broncos.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/denver-broncos.svg" alt="denver-broncos.svg" title="denver-broncos.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/detroit-lions.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/detroit-lions.svg" alt="detroit-lions.svg" title="detroit-lions.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/green-bay-packers.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/green-bay-packers.svg" alt="green-bay-packers.svg" title="green-bay-packers.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/houston-texans.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/houston-texans.svg" alt="houston-texans.svg" title="houston-texans.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/indianapolis-colts.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/indianapolis-colts.svg" alt="indianapolis-colts.svg" title="indianapolis-colts.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/jacksonville-jaguars.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/jacksonville-jaguars.svg" alt="jacksonville-jaguars.svg" title="jacksonville-jaguars.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/kansas-city-chiefs.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/kansas-city-chiefs.svg" alt="kansas-city-chiefs.svg" title="kansas-city-chiefs.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/las-vegas-raiders.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/las-vegas-raiders.svg" alt="las-vegas-raiders.svg" title="las-vegas-raiders.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/los-angeles-chargers.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/los-angeles-chargers.svg" alt="los-angeles-chargers.svg" title="los-angeles-chargers.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/los-angeles-rams.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/los-angeles-rams.svg" alt="los-angeles-rams.svg" title="los-angeles-rams.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/miami-dolphins.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/miami-dolphins.svg" alt="miami-dolphins.svg" title="miami-dolphins.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/minnesota-vikings.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/minnesota-vikings.svg" alt="minnesota-vikings.svg" title="minnesota-vikings.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/new-england-patriots.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/new-england-patriots.svg" alt="new-england-patriots.svg" title="new-england-patriots.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/new-orleans-saints.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/new-orleans-saints.svg" alt="new-orleans-saints.svg" title="new-orleans-saints.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/new-york-giants.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/new-york-giants.svg" alt="new-york-giants.svg" title="new-york-giants.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/new-york-jets.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/new-york-jets.svg" alt="new-york-jets.svg" title="new-york-jets.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/philadelphia-eagles.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/philadelphia-eagles.svg" alt="philadelphia-eagles.svg" title="philadelphia-eagles.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/pittsburgh-steelers.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/pittsburgh-steelers.svg" alt="pittsburgh-steelers.svg" title="pittsburgh-steelers.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/san-francisco-49ers.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/san-francisco-49ers.svg" alt="san-francisco-49ers.svg" title="san-francisco-49ers.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/seattle-seahawks.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/seattle-seahawks.svg" alt="seattle-seahawks.svg" title="seattle-seahawks.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/tampa-bay-buccaneers.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/tampa-bay-buccaneers.svg" alt="tampa-bay-buccaneers.svg" title="tampa-bay-buccaneers.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/tennessee-titans.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/tennessee-titans.svg" alt="tennessee-titans.svg" title="tennessee-titans.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/washington-commanders.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/football/washington-commanders.svg" alt="washington-commanders.svg" title="washington-commanders.svg" height="32px" />
   </a>
 </div>
 
