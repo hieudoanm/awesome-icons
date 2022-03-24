@@ -1,6 +1,6 @@
-# Icons (600)
+# Icons (632)
 
-## big-tech (67)
+## big-tech (70)
 
 ### adobe (5)
 
@@ -53,7 +53,7 @@
   </a>
 </div>
 
-### apple (2)
+### apple (3)
 
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/apple/apple-app-store.svg" target="_blank">
@@ -63,6 +63,11 @@
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/apple/apple-pay.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/apple/apple-pay.svg" alt="apple-pay.svg" title="apple-pay.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/apple/ios.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/apple/ios.svg" alt="ios.svg" title="ios.svg" height="32px" />
   </a>
 </div>
 
@@ -230,8 +235,13 @@
   </a>
 </div>
 
-### google (12)
+### google (13)
 
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/google/android.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/google/android.svg" alt="android.svg" title="android.svg" height="32px" />
+  </a>
+</div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/google/authenticator.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/google/authenticator.svg" alt="authenticator.svg" title="authenticator.svg" height="32px" />
@@ -293,6 +303,14 @@
   </a>
 </div>
 
+### ibm (1)
+
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/ibm/ibm.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/ibm/ibm.svg" alt="ibm.svg" title="ibm.svg" height="32px" />
+  </a>
+</div>
+
 ### meta (7)
 
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
@@ -331,7 +349,7 @@
   </a>
 </div>
 
-### microsoft (4)
+### microsoft (5)
 
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/azure.svg" target="_blank">
@@ -353,17 +371,17 @@
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/linkedin.svg" alt="linkedin.svg" title="linkedin.svg" height="32px" />
   </a>
 </div>
-
-### other (2)
-
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
-  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/other/ibm.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/other/ibm.svg" alt="ibm.svg" title="ibm.svg" height="32px" />
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/windows.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/microsoft/windows.svg" alt="windows.svg" title="windows.svg" height="32px" />
   </a>
 </div>
+
+### twitter (1)
+
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
-  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/other/twitter.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/other/twitter.svg" alt="twitter.svg" title="twitter.svg" height="32px" />
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/twitter/twitter.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/twitter/twitter.svg" alt="twitter.svg" title="twitter.svg" height="32px" />
   </a>
 </div>
 
@@ -1359,7 +1377,7 @@
   </a>
 </div>
 
-## dev-ops (31)
+## dev-ops (30)
 
 ### ci-cd (2)
 
@@ -1423,13 +1441,8 @@
   </a>
 </div>
 
-### os (7)
+### os (6)
 
-<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
-  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/os/android.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/os/android.svg" alt="android.svg" title="android.svg" height="32px" />
-  </a>
-</div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/os/arch-linux.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/os/arch-linux.svg" alt="arch-linux.svg" title="arch-linux.svg" height="32px" />
@@ -1446,6 +1459,11 @@
   </a>
 </div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/os/linux.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/os/linux.svg" alt="linux.svg" title="linux.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/os/red-hat.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/os/red-hat.svg" alt="red-hat.svg" title="red-hat.svg" height="32px" />
   </a>
@@ -1453,11 +1471,6 @@
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/os/ubuntu.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/os/ubuntu.svg" alt="ubuntu.svg" title="ubuntu.svg" height="32px" />
-  </a>
-</div>
-<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
-  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/os/windows.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/os/windows.svg" alt="windows.svg" title="windows.svg" height="32px" />
   </a>
 </div>
 
@@ -1849,31 +1862,11 @@
   </a>
 </div>
 
-### framework (18)
+### framework (7)
 
-<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
-  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/framework/angular.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/framework/angular.svg" alt="angular.svg" title="angular.svg" height="32px" />
-  </a>
-</div>
-<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
-  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/framework/angularjs.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/framework/angularjs.svg" alt="angularjs.svg" title="angularjs.svg" height="32px" />
-  </a>
-</div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/framework/apollo.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/framework/apollo.svg" alt="apollo.svg" title="apollo.svg" height="32px" />
-  </a>
-</div>
-<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
-  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/framework/aurelia.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/framework/aurelia.svg" alt="aurelia.svg" title="aurelia.svg" height="32px" />
-  </a>
-</div>
-<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
-  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/framework/backbone.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/framework/backbone.svg" alt="backbone.svg" title="backbone.svg" height="32px" />
   </a>
 </div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
@@ -1897,33 +1890,8 @@
   </a>
 </div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
-  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/framework/gatsby.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/framework/gatsby.svg" alt="gatsby.svg" title="gatsby.svg" height="32px" />
-  </a>
-</div>
-<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/framework/nest.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/framework/nest.svg" alt="nest.svg" title="nest.svg" height="32px" />
-  </a>
-</div>
-<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
-  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/framework/next.js.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/framework/next.js.svg" alt="next.js.svg" title="next.js.svg" height="32px" />
-  </a>
-</div>
-<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
-  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/framework/next.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/framework/next.svg" alt="next.svg" title="next.svg" height="32px" />
-  </a>
-</div>
-<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
-  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/framework/react.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/framework/react.svg" alt="react.svg" title="react.svg" height="32px" />
-  </a>
-</div>
-<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
-  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/framework/redux.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/framework/redux.svg" alt="redux.svg" title="redux.svg" height="32px" />
   </a>
 </div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
@@ -1931,14 +1899,62 @@
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/framework/spring.svg" alt="spring.svg" title="spring.svg" height="32px" />
   </a>
 </div>
+
+### front-end-framework (11)
+
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
-  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/framework/svelte.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/framework/svelte.svg" alt="svelte.svg" title="svelte.svg" height="32px" />
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/front-end-framework/angular.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/front-end-framework/angular.svg" alt="angular.svg" title="angular.svg" height="32px" />
   </a>
 </div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
-  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/framework/vue.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/framework/vue.svg" alt="vue.svg" title="vue.svg" height="32px" />
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/front-end-framework/angularjs.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/front-end-framework/angularjs.svg" alt="angularjs.svg" title="angularjs.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/front-end-framework/aurelia.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/front-end-framework/aurelia.svg" alt="aurelia.svg" title="aurelia.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/front-end-framework/backbone.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/front-end-framework/backbone.svg" alt="backbone.svg" title="backbone.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/front-end-framework/gatsby.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/front-end-framework/gatsby.svg" alt="gatsby.svg" title="gatsby.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/front-end-framework/next.js.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/front-end-framework/next.js.svg" alt="next.js.svg" title="next.js.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/front-end-framework/next.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/front-end-framework/next.svg" alt="next.svg" title="next.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/front-end-framework/react.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/front-end-framework/react.svg" alt="react.svg" title="react.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/front-end-framework/redux.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/front-end-framework/redux.svg" alt="redux.svg" title="redux.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/front-end-framework/svelte.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/front-end-framework/svelte.svg" alt="svelte.svg" title="svelte.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/front-end-framework/vue.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/front-end-framework/vue.svg" alt="vue.svg" title="vue.svg" height="32px" />
   </a>
 </div>
 
@@ -2656,7 +2672,160 @@
   </a>
 </div>
 
-## usa (100)
+## usa (130)
+
+### basketball (30)
+
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/atlanta-hawks.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/atlanta-hawks.svg" alt="atlanta-hawks.svg" title="atlanta-hawks.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/boston-celtics.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/boston-celtics.svg" alt="boston-celtics.svg" title="boston-celtics.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/brooklyn-nets.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/brooklyn-nets.svg" alt="brooklyn-nets.svg" title="brooklyn-nets.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/charlotte-hornets.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/charlotte-hornets.svg" alt="charlotte-hornets.svg" title="charlotte-hornets.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/chicago-bulls.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/chicago-bulls.svg" alt="chicago-bulls.svg" title="chicago-bulls.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/cleveland-cavaliers.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/cleveland-cavaliers.svg" alt="cleveland-cavaliers.svg" title="cleveland-cavaliers.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/dallas-mavericks.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/dallas-mavericks.svg" alt="dallas-mavericks.svg" title="dallas-mavericks.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/denver-nuggets.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/denver-nuggets.svg" alt="denver-nuggets.svg" title="denver-nuggets.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/golden-state-warriors.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/golden-state-warriors.svg" alt="golden-state-warriors.svg" title="golden-state-warriors.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/houston-rockets.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/houston-rockets.svg" alt="houston-rockets.svg" title="houston-rockets.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/indiana-pacers.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/indiana-pacers.svg" alt="indiana-pacers.svg" title="indiana-pacers.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/los-angeles-clippers.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/los-angeles-clippers.svg" alt="los-angeles-clippers.svg" title="los-angeles-clippers.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/los-angeles-lakers.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/los-angeles-lakers.svg" alt="los-angeles-lakers.svg" title="los-angeles-lakers.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/memphis-grizzlies.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/memphis-grizzlies.svg" alt="memphis-grizzlies.svg" title="memphis-grizzlies.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/miami-heat.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/miami-heat.svg" alt="miami-heat.svg" title="miami-heat.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/milwaukee-bucks.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/milwaukee-bucks.svg" alt="milwaukee-bucks.svg" title="milwaukee-bucks.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/minnesota-timberwolves.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/minnesota-timberwolves.svg" alt="minnesota-timberwolves.svg" title="minnesota-timberwolves.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/new-orleans-pelicans.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/new-orleans-pelicans.svg" alt="new-orleans-pelicans.svg" title="new-orleans-pelicans.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/new-york-knicks.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/new-york-knicks.svg" alt="new-york-knicks.svg" title="new-york-knicks.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/oklahoma-city-thunder.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/oklahoma-city-thunder.svg" alt="oklahoma-city-thunder.svg" title="oklahoma-city-thunder.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/orlando-magic.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/orlando-magic.svg" alt="orlando-magic.svg" title="orlando-magic.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/philadelphia-76ers.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/philadelphia-76ers.svg" alt="philadelphia-76ers.svg" title="philadelphia-76ers.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/phoenix-suns.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/phoenix-suns.svg" alt="phoenix-suns.svg" title="phoenix-suns.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/pistons.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/pistons.svg" alt="pistons.svg" title="pistons.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/portland-trail-blazers.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/portland-trail-blazers.svg" alt="portland-trail-blazers.svg" title="portland-trail-blazers.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/sacramento-kings.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/sacramento-kings.svg" alt="sacramento-kings.svg" title="sacramento-kings.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/san-antonio-spurs.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/san-antonio-spurs.svg" alt="san-antonio-spurs.svg" title="san-antonio-spurs.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/toronto-raptors.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/toronto-raptors.svg" alt="toronto-raptors.svg" title="toronto-raptors.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/utah-jazz.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/utah-jazz.svg" alt="utah-jazz.svg" title="utah-jazz.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/washington-wizards.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/basketball/washington-wizards.svg" alt="washington-wizards.svg" title="washington-wizards.svg" height="32px" />
+  </a>
+</div>
 
 ### flags (50)
 
