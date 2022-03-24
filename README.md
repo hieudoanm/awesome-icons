@@ -1,4 +1,4 @@
-# Icons (555)
+# Icons (572)
 
 ## big-tech (62)
 
@@ -2184,9 +2184,9 @@
   </a>
 </div>
 
-## football (42)
+## football (59)
 
-### england (13)
+### england (30)
 
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/arsenal.svg" target="_blank">
@@ -2199,6 +2199,31 @@
   </a>
 </div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/blackburn-rovers.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/blackburn-rovers.svg" alt="blackburn-rovers.svg" title="blackburn-rovers.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/brentford.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/brentford.svg" alt="brentford.svg" title="brentford.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/brighton-&-hove-albion.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/brighton-&-hove-albion.svg" alt="brighton-&-hove-albion.svg" title="brighton-&-hove-albion.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/burnley.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/burnley.svg" alt="burnley.svg" title="burnley.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/cardiff-city.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/cardiff-city.svg" alt="cardiff-city.svg" title="cardiff-city.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/chelsea.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/chelsea.svg" alt="chelsea.svg" title="chelsea.svg" height="32px" />
   </a>
@@ -2206,6 +2231,16 @@
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/crystal-palace.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/crystal-palace.svg" alt="crystal-palace.svg" title="crystal-palace.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/fulham.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/fulham.svg" alt="fulham.svg" title="fulham.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/ipswich-town.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/ipswich-town.svg" alt="ipswich-town.svg" title="ipswich-town.svg" height="32px" />
   </a>
 </div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
@@ -2234,13 +2269,63 @@
   </a>
 </div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/middlesbrough.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/middlesbrough.svg" alt="middlesbrough.svg" title="middlesbrough.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/newcastle-united.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/newcastle-united.svg" alt="newcastle-united.svg" title="newcastle-united.svg" height="32px" />
   </a>
 </div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/norwich-city.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/norwich-city.svg" alt="norwich-city.svg" title="norwich-city.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/nottingham-forest.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/nottingham-forest.svg" alt="nottingham-forest.svg" title="nottingham-forest.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/queens-park-rangers.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/queens-park-rangers.svg" alt="queens-park-rangers.svg" title="queens-park-rangers.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/sheffield-united.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/sheffield-united.svg" alt="sheffield-united.svg" title="sheffield-united.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/sheffield-wednesday.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/sheffield-wednesday.svg" alt="sheffield-wednesday.svg" title="sheffield-wednesday.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/southampton.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/southampton.svg" alt="southampton.svg" title="southampton.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/swansea-city.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/swansea-city.svg" alt="swansea-city.svg" title="swansea-city.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/tottenham-hotspur.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/tottenham-hotspur.svg" alt="tottenham-hotspur.svg" title="tottenham-hotspur.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/watford.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/watford.svg" alt="watford.svg" title="watford.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/west-bromwich-albion.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/england/west-bromwich-albion.svg" alt="west-bromwich-albion.svg" title="west-bromwich-albion.svg" height="32px" />
   </a>
 </div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
