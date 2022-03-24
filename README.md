@@ -1,4 +1,4 @@
-# Icons (777)
+# Icons (831)
 
 ## big-tech (116)
 
@@ -1610,7 +1610,7 @@
   </a>
 </div>
 
-## dev-ops (30)
+## dev-ops (29)
 
 ### ci-cd (3)
 
@@ -1730,7 +1730,7 @@
   </a>
 </div>
 
-### saas (10)
+### saas (9)
 
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/airbnb.svg" target="_blank">
@@ -1773,17 +1773,12 @@
   </a>
 </div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
-  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/paypal.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/paypal.svg" alt="paypal.svg" title="paypal.svg" height="32px" />
-  </a>
-</div>
-<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/wordpress.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/wordpress.svg" alt="wordpress.svg" title="wordpress.svg" height="32px" />
   </a>
 </div>
 
-## development (115)
+## development (123)
 
 ### api (2)
 
@@ -1811,7 +1806,7 @@
   </a>
 </div>
 
-### crypto (41)
+### crypto (49)
 
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/crypto/ada.svg" target="_blank">
@@ -1821,6 +1816,11 @@
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/crypto/algo.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/crypto/algo.svg" alt="algo.svg" title="algo.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/crypto/bat.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/crypto/bat.svg" alt="bat.svg" title="bat.svg" height="32px" />
   </a>
 </div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
@@ -1836,6 +1836,11 @@
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/crypto/bnb.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/crypto/bnb.svg" alt="bnb.svg" title="bnb.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/crypto/bsv.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/crypto/bsv.svg" alt="bsv.svg" title="bsv.svg" height="32px" />
   </a>
 </div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
@@ -1866,6 +1871,11 @@
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/crypto/dai.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/crypto/dai.svg" alt="dai.svg" title="dai.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/crypto/dash.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/crypto/dash.svg" alt="dash.svg" title="dash.svg" height="32px" />
   </a>
 </div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
@@ -1924,6 +1934,11 @@
   </a>
 </div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/crypto/hbtc.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/crypto/hbtc.svg" alt="hbtc.svg" title="hbtc.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/crypto/hex.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/crypto/hex.svg" alt="hex.svg" title="hex.svg" height="32px" />
   </a>
@@ -1954,8 +1969,28 @@
   </a>
 </div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/crypto/mkr.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/crypto/mkr.svg" alt="mkr.svg" title="mkr.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/crypto/neo.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/crypto/neo.svg" alt="neo.svg" title="neo.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/crypto/nexo.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/crypto/nexo.svg" alt="nexo.svg" title="nexo.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/crypto/okb.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/crypto/okb.svg" alt="okb.svg" title="okb.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/crypto/rvn.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/crypto/rvn.svg" alt="rvn.svg" title="rvn.svg" height="32px" />
   </a>
 </div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
@@ -2995,7 +3030,25 @@
   </a>
 </div>
 
-## software (13)
+## software (21)
+
+### e-commerce (3)
+
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/e-commerce/ebay.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/e-commerce/ebay.svg" alt="ebay.svg" title="ebay.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/e-commerce/lazada.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/e-commerce/lazada.svg" alt="lazada.svg" title="lazada.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/e-commerce/shopify.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/e-commerce/shopify.svg" alt="shopify.svg" title="shopify.svg" height="32px" />
+  </a>
+</div>
 
 ### mail (2)
 
@@ -3028,6 +3081,19 @@
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/note/evernote.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/note/evernote.svg" alt="evernote.svg" title="evernote.svg" height="32px" />
+  </a>
+</div>
+
+### payment (2)
+
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/payment/paypal.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/payment/paypal.svg" alt="paypal.svg" title="paypal.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/payment/stripe.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/payment/stripe.svg" alt="stripe.svg" title="stripe.svg" height="32px" />
   </a>
 </div>
 
@@ -3077,6 +3143,227 @@
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/sms/telegram.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/sms/telegram.svg" alt="telegram.svg" title="telegram.svg" height="32px" />
+  </a>
+</div>
+
+### transportation (3)
+
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/transportation/gojek.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/transportation/gojek.svg" alt="gojek.svg" title="gojek.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/transportation/grab.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/transportation/grab.svg" alt="grab.svg" title="grab.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/transportation/uber.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/transportation/uber.svg" alt="uber.svg" title="uber.svg" height="32px" />
+  </a>
+</div>
+
+## transportation (39)
+
+### airlines (35)
+
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/aeroflot.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/aeroflot.svg" alt="aeroflot.svg" title="aeroflot.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/aerolíneas-argentinas.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/aerolíneas-argentinas.svg" alt="aerolíneas-argentinas.svg" title="aerolíneas-argentinas.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/aeroméxico.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/aeroméxico.svg" alt="aeroméxico.svg" title="aeroméxico.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/air-europa.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/air-europa.svg" alt="air-europa.svg" title="air-europa.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/air-france.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/air-france.svg" alt="air-france.svg" title="air-france.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/alaska-airlines.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/alaska-airlines.svg" alt="alaska-airlines.svg" title="alaska-airlines.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/american-airlines.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/american-airlines.svg" alt="american-airlines.svg" title="american-airlines.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/british-airways.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/british-airways.svg" alt="british-airways.svg" title="british-airways.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/cathay-pacific.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/cathay-pacific.svg" alt="cathay-pacific.svg" title="cathay-pacific.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/china-airlines.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/china-airlines.svg" alt="china-airlines.svg" title="china-airlines.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/china-eastern-airlines.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/china-eastern-airlines.svg" alt="china-eastern-airlines.svg" title="china-eastern-airlines.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/czech-airlines.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/czech-airlines.svg" alt="czech-airlines.svg" title="czech-airlines.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/delta.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/delta.svg" alt="delta.svg" title="delta.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/finnair.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/finnair.svg" alt="finnair.svg" title="finnair.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/garuda-indonesia.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/garuda-indonesia.svg" alt="garuda-indonesia.svg" title="garuda-indonesia.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/iberia.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/iberia.svg" alt="iberia.svg" title="iberia.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/ita-airways.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/ita-airways.svg" alt="ita-airways.svg" title="ita-airways.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/japan-airlines.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/japan-airlines.svg" alt="japan-airlines.svg" title="japan-airlines.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/kenya-airways.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/kenya-airways.svg" alt="kenya-airways.svg" title="kenya-airways.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/klm.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/klm.svg" alt="klm.svg" title="klm.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/korean-air.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/korean-air.svg" alt="korean-air.svg" title="korean-air.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/malaysia-airlines.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/malaysia-airlines.svg" alt="malaysia-airlines.svg" title="malaysia-airlines.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/middle-east-airlines.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/middle-east-airlines.svg" alt="middle-east-airlines.svg" title="middle-east-airlines.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/pacific-airlines.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/pacific-airlines.svg" alt="pacific-airlines.svg" title="pacific-airlines.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/qantas-airways.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/qantas-airways.svg" alt="qantas-airways.svg" title="qantas-airways.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/qatar-airways.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/qatar-airways.svg" alt="qatar-airways.svg" title="qatar-airways.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/royal-air-maroc.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/royal-air-maroc.svg" alt="royal-air-maroc.svg" title="royal-air-maroc.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/royal-jordanian.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/royal-jordanian.svg" alt="royal-jordanian.svg" title="royal-jordanian.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/s7-airlines.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/s7-airlines.svg" alt="s7-airlines.svg" title="s7-airlines.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/saudia.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/saudia.svg" alt="saudia.svg" title="saudia.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/sri-lankan-airlines.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/sri-lankan-airlines.svg" alt="sri-lankan-airlines.svg" title="sri-lankan-airlines.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/tarom.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/tarom.svg" alt="tarom.svg" title="tarom.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/vietjet-air.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/vietjet-air.svg" alt="vietjet-air.svg" title="vietjet-air.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/vietnam-airlines.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/vietnam-airlines.svg" alt="vietnam-airlines.svg" title="vietnam-airlines.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/xiamen-air.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/airlines/xiamen-air.svg" alt="xiamen-air.svg" title="xiamen-air.svg" height="32px" />
+  </a>
+</div>
+
+### car (4)
+
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/car/bugatti.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/car/bugatti.svg" alt="bugatti.svg" title="bugatti.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/car/ferrari.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/car/ferrari.svg" alt="ferrari.svg" title="ferrari.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/car/ford.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/car/ford.svg" alt="ford.svg" title="ford.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/car/tesla.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/transportation/car/tesla.svg" alt="tesla.svg" title="tesla.svg" height="32px" />
   </a>
 </div>
 
