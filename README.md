@@ -1,6 +1,34 @@
 # Icons (600)
 
-## big-tech (62)
+## big-tech (67)
+
+### adobe (5)
+
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/after-effects.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/after-effects.svg" alt="after-effects.svg" title="after-effects.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/illustrator.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/illustrator.svg" alt="illustrator.svg" title="illustrator.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/indesign.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/indesign.svg" alt="indesign.svg" title="indesign.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/lightroom.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/lightroom.svg" alt="lightroom.svg" title="lightroom.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/photoshop.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/photoshop.svg" alt="photoshop.svg" title="photoshop.svg" height="32px" />
+  </a>
+</div>
 
 ### apache (4)
 
@@ -1331,7 +1359,7 @@
   </a>
 </div>
 
-## dev-ops (44)
+## dev-ops (31)
 
 ### ci-cd (2)
 
@@ -1451,21 +1479,11 @@
   </a>
 </div>
 
-### saas (24)
+### saas (11)
 
-<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
-  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/500px.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/500px.svg" alt="500px.svg" title="500px.svg" height="32px" />
-  </a>
-</div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/airbnb.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/airbnb.svg" alt="airbnb.svg" title="airbnb.svg" height="32px" />
-  </a>
-</div>
-<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
-  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/atlassian.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/atlassian.svg" alt="atlassian.svg" title="atlassian.svg" height="32px" />
   </a>
 </div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
@@ -1476,16 +1494,6 @@
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/authy.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/authy.svg" alt="authy.svg" title="authy.svg" height="32px" />
-  </a>
-</div>
-<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
-  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/bitbucket.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/bitbucket.svg" alt="bitbucket.svg" title="bitbucket.svg" height="32px" />
-  </a>
-</div>
-<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
-  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/confluence.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/confluence.svg" alt="confluence.svg" title="confluence.svg" height="32px" />
   </a>
 </div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
@@ -1501,21 +1509,6 @@
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/figma.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/figma.svg" alt="figma.svg" title="figma.svg" height="32px" />
-  </a>
-</div>
-<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
-  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/github.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/github.svg" alt="github.svg" title="github.svg" height="32px" />
-  </a>
-</div>
-<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
-  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/gitlab.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/gitlab.svg" alt="gitlab.svg" title="gitlab.svg" height="32px" />
-  </a>
-</div>
-<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
-  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/homebrew.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/homebrew.svg" alt="homebrew.svg" title="homebrew.svg" height="32px" />
   </a>
 </div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
@@ -1539,42 +1532,12 @@
   </a>
 </div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
-  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/slack.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/slack.svg" alt="slack.svg" title="slack.svg" height="32px" />
-  </a>
-</div>
-<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
-  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/soundcloud.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/soundcloud.svg" alt="soundcloud.svg" title="soundcloud.svg" height="32px" />
-  </a>
-</div>
-<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
-  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/spotify.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/spotify.svg" alt="spotify.svg" title="spotify.svg" height="32px" />
-  </a>
-</div>
-<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
-  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/telegram.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/telegram.svg" alt="telegram.svg" title="telegram.svg" height="32px" />
-  </a>
-</div>
-<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
-  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/trello.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/trello.svg" alt="trello.svg" title="trello.svg" height="32px" />
-  </a>
-</div>
-<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
-  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/unsplash.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/unsplash.svg" alt="unsplash.svg" title="unsplash.svg" height="32px" />
-  </a>
-</div>
-<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/wordpress.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/dev-ops/saas/wordpress.svg" alt="wordpress.svg" title="wordpress.svg" height="32px" />
   </a>
 </div>
 
-## development (112)
+## development (113)
 
 ### api (2)
 
@@ -2018,11 +1981,16 @@
   </a>
 </div>
 
-### package-manager (3)
+### package-manager (4)
 
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/package-manager/bower.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/package-manager/bower.svg" alt="bower.svg" title="bower.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/package-manager/homebrew.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/development/package-manager/homebrew.svg" alt="homebrew.svg" title="homebrew.svg" height="32px" />
   </a>
 </div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
@@ -2639,6 +2607,52 @@
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/spain/villarreal.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/spain/villarreal.svg" alt="villarreal.svg" title="villarreal.svg" height="32px" />
+  </a>
+</div>
+
+## software (7)
+
+### music (2)
+
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/music/soundcloud.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/music/soundcloud.svg" alt="soundcloud.svg" title="soundcloud.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/music/spotify.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/music/spotify.svg" alt="spotify.svg" title="spotify.svg" height="32px" />
+  </a>
+</div>
+
+### photo (2)
+
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/photo/500px.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/photo/500px.svg" alt="500px.svg" title="500px.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/photo/unsplash.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/photo/unsplash.svg" alt="unsplash.svg" title="unsplash.svg" height="32px" />
+  </a>
+</div>
+
+### sms (3)
+
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/sms/signal.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/sms/signal.svg" alt="signal.svg" title="signal.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/sms/slack.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/sms/slack.svg" alt="slack.svg" title="slack.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/sms/telegram.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/software/sms/telegram.svg" alt="telegram.svg" title="telegram.svg" height="32px" />
   </a>
 </div>
 
