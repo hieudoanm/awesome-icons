@@ -1,12 +1,52 @@
-# Icons (936)
+# Icons (1006)
 
-## big-tech (116)
+## big-tech (131)
 
-### adobe (5)
+### adobe (20)
 
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/acrobat.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/acrobat.svg" alt="acrobat.svg" title="acrobat.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/adobe.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/adobe.svg" alt="adobe.svg" title="adobe.svg" height="32px" />
+  </a>
+</div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/after-effects.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/after-effects.svg" alt="after-effects.svg" title="after-effects.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/animate.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/animate.svg" alt="animate.svg" title="animate.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/audition.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/audition.svg" alt="audition.svg" title="audition.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/character-animator.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/character-animator.svg" alt="character-animator.svg" title="character-animator.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/dreamweaver.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/dreamweaver.svg" alt="dreamweaver.svg" title="dreamweaver.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/flash.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/flash.svg" alt="flash.svg" title="flash.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/frame-maker.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/frame-maker.svg" alt="frame-maker.svg" title="frame-maker.svg" height="32px" />
   </a>
 </div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
@@ -15,8 +55,13 @@
   </a>
 </div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
-  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/indesign.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/indesign.svg" alt="indesign.svg" title="indesign.svg" height="32px" />
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/in-copy.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/in-copy.svg" alt="in-copy.svg" title="in-copy.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/in-design.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/in-design.svg" alt="in-design.svg" title="in-design.svg" height="32px" />
   </a>
 </div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
@@ -25,8 +70,38 @@
   </a>
 </div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/photoshop-elements.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/photoshop-elements.svg" alt="photoshop-elements.svg" title="photoshop-elements.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/photoshop.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/photoshop.svg" alt="photoshop.svg" title="photoshop.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/prelude.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/prelude.svg" alt="prelude.svg" title="prelude.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/premiere-elements.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/premiere-elements.svg" alt="premiere-elements.svg" title="premiere-elements.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/premiere-pro.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/premiere-pro.svg" alt="premiere-pro.svg" title="premiere-pro.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/spark-video.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/spark-video.svg" alt="spark-video.svg" title="spark-video.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/xd.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/big-tech/adobe/xd.svg" alt="xd.svg" title="xd.svg" height="32px" />
   </a>
 </div>
 
@@ -3033,7 +3108,65 @@
   </a>
 </div>
 
-## football (111)
+## football (163)
+
+### brazil (11)
+
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/brazil/atlético-mineiro.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/brazil/atlético-mineiro.svg" alt="atlético-mineiro.svg" title="atlético-mineiro.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/brazil/botafogo.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/brazil/botafogo.svg" alt="botafogo.svg" title="botafogo.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/brazil/corinthians.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/brazil/corinthians.svg" alt="corinthians.svg" title="corinthians.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/brazil/cruzeiro.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/brazil/cruzeiro.svg" alt="cruzeiro.svg" title="cruzeiro.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/brazil/flamengo.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/brazil/flamengo.svg" alt="flamengo.svg" title="flamengo.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/brazil/fluminense.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/brazil/fluminense.svg" alt="fluminense.svg" title="fluminense.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/brazil/grêmio.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/brazil/grêmio.svg" alt="grêmio.svg" title="grêmio.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/brazil/internacional.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/brazil/internacional.svg" alt="internacional.svg" title="internacional.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/brazil/palmeiras.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/brazil/palmeiras.svg" alt="palmeiras.svg" title="palmeiras.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/brazil/santos.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/brazil/santos.svg" alt="santos.svg" title="santos.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/brazil/são-paulo.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/brazil/são-paulo.svg" alt="são-paulo.svg" title="são-paulo.svg" height="32px" />
+  </a>
+</div>
 
 ### country (24)
 
@@ -3311,6 +3444,14 @@
   </a>
 </div>
 
+### finland (1)
+
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/finland/hjk.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/finland/hjk.svg" alt="hjk.svg" title="hjk.svg" height="32px" />
+  </a>
+</div>
+
 ### france (6)
 
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
@@ -3344,8 +3485,13 @@
   </a>
 </div>
 
-### germany (7)
+### germany (23)
 
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/augsburg.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/augsburg.svg" alt="augsburg.svg" title="augsburg.svg" height="32px" />
+  </a>
+</div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/bayer-04-leverkusen.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/bayer-04-leverkusen.svg" alt="bayer-04-leverkusen.svg" title="bayer-04-leverkusen.svg" height="32px" />
@@ -3362,8 +3508,43 @@
   </a>
 </div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/borussia-mönchengladbach.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/borussia-mönchengladbach.svg" alt="borussia-mönchengladbach.svg" title="borussia-mönchengladbach.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/bundesliga.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/bundesliga.svg" alt="bundesliga.svg" title="bundesliga.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/eintracht-frankfurt.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/eintracht-frankfurt.svg" alt="eintracht-frankfurt.svg" title="eintracht-frankfurt.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/greuther-fürth.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/greuther-fürth.svg" alt="greuther-fürth.svg" title="greuther-fürth.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/hamburger-sv.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/hamburger-sv.svg" alt="hamburger-sv.svg" title="hamburger-sv.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/hertha-bsc.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/hertha-bsc.svg" alt="hertha-bsc.svg" title="hertha-bsc.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/kaiserslautern.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/kaiserslautern.svg" alt="kaiserslautern.svg" title="kaiserslautern.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/koln.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/koln.svg" alt="koln.svg" title="koln.svg" height="32px" />
   </a>
 </div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
@@ -3372,13 +3553,53 @@
   </a>
 </div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/nürnberg.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/nürnberg.svg" alt="nürnberg.svg" title="nürnberg.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/rb-leipzig.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/rb-leipzig.svg" alt="rb-leipzig.svg" title="rb-leipzig.svg" height="32px" />
   </a>
 </div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
-  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/stuttgart.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/stuttgart.svg" alt="stuttgart.svg" title="stuttgart.svg" height="32px" />
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/sc-freiburg.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/sc-freiburg.svg" alt="sc-freiburg.svg" title="sc-freiburg.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/schalke-04.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/schalke-04.svg" alt="schalke-04.svg" title="schalke-04.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/tsg-hoffenheim.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/tsg-hoffenheim.svg" alt="tsg-hoffenheim.svg" title="tsg-hoffenheim.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/union-berlin.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/union-berlin.svg" alt="union-berlin.svg" title="union-berlin.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/vfl-bochum.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/vfl-bochum.svg" alt="vfl-bochum.svg" title="vfl-bochum.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/vfl-stuttgart.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/vfl-stuttgart.svg" alt="vfl-stuttgart.svg" title="vfl-stuttgart.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/vfl-wolfsburg.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/vfl-wolfsburg.svg" alt="vfl-wolfsburg.svg" title="vfl-wolfsburg.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/werder-bremen.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/germany/werder-bremen.svg" alt="werder-bremen.svg" title="werder-bremen.svg" height="32px" />
   </a>
 </div>
 
@@ -3475,7 +3696,65 @@
   </a>
 </div>
 
-### netherlands (10)
+### korea (11)
+
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/korea/daegu.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/korea/daegu.svg" alt="daegu.svg" title="daegu.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/korea/gangwon.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/korea/gangwon.svg" alt="gangwon.svg" title="gangwon.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/korea/incheon-united.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/korea/incheon-united.svg" alt="incheon-united.svg" title="incheon-united.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/korea/jeju-united.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/korea/jeju-united.svg" alt="jeju-united.svg" title="jeju-united.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/korea/jeonbuk-hyundai-motors.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/korea/jeonbuk-hyundai-motors.svg" alt="jeonbuk-hyundai-motors.svg" title="jeonbuk-hyundai-motors.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/korea/pohang-steelers.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/korea/pohang-steelers.svg" alt="pohang-steelers.svg" title="pohang-steelers.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/korea/seongnam.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/korea/seongnam.svg" alt="seongnam.svg" title="seongnam.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/korea/seoul.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/korea/seoul.svg" alt="seoul.svg" title="seoul.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/korea/suwon-samsung-bluewings.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/korea/suwon-samsung-bluewings.svg" alt="suwon-samsung-bluewings.svg" title="suwon-samsung-bluewings.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/korea/suwon.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/korea/suwon.svg" alt="suwon.svg" title="suwon.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/korea/ulsan-hyundai.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/korea/ulsan-hyundai.svg" alt="ulsan-hyundai.svg" title="ulsan-hyundai.svg" height="32px" />
+  </a>
+</div>
+
+### netherlands (12)
 
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/netherlands/ajax-amsterdam.svg" target="_blank">
@@ -3493,6 +3772,11 @@
   </a>
 </div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/netherlands/fortuna-sittard.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/netherlands/fortuna-sittard.svg" alt="fortuna-sittard.svg" title="fortuna-sittard.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/netherlands/groningen.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/netherlands/groningen.svg" alt="groningen.svg" title="groningen.svg" height="32px" />
   </a>
@@ -3500,6 +3784,11 @@
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/netherlands/heerenveen.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/netherlands/heerenveen.svg" alt="heerenveen.svg" title="heerenveen.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/netherlands/heracles-almelo.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/netherlands/heracles-almelo.svg" alt="heracles-almelo.svg" title="heracles-almelo.svg" height="32px" />
   </a>
 </div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
@@ -3528,11 +3817,56 @@
   </a>
 </div>
 
-### portugal (3)
+### portugal (14)
 
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/portugal/belenenses-sad.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/portugal/belenenses-sad.svg" alt="belenenses-sad.svg" title="belenenses-sad.svg" height="32px" />
+  </a>
+</div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/portugal/benfica.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/portugal/benfica.svg" alt="benfica.svg" title="benfica.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/portugal/boavista.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/portugal/boavista.svg" alt="boavista.svg" title="boavista.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/portugal/braga.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/portugal/braga.svg" alt="braga.svg" title="braga.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/portugal/estoril.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/portugal/estoril.svg" alt="estoril.svg" title="estoril.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/portugal/famalicão.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/portugal/famalicão.svg" alt="famalicão.svg" title="famalicão.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/portugal/marítimo.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/portugal/marítimo.svg" alt="marítimo.svg" title="marítimo.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/portugal/moreirense.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/portugal/moreirense.svg" alt="moreirense.svg" title="moreirense.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/portugal/paços-de-ferreira.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/portugal/paços-de-ferreira.svg" alt="paços-de-ferreira.svg" title="paços-de-ferreira.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/portugal/portimonense.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/portugal/portimonense.svg" alt="portimonense.svg" title="portimonense.svg" height="32px" />
   </a>
 </div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
@@ -3541,8 +3875,18 @@
   </a>
 </div>
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/portugal/santa-clara.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/portugal/santa-clara.svg" alt="santa-clara.svg" title="santa-clara.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/portugal/sporting-lisbon.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/portugal/sporting-lisbon.svg" alt="sporting-lisbon.svg" title="sporting-lisbon.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/portugal/vitória-de-guimarães.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/football/portugal/vitória-de-guimarães.svg" alt="vitória-de-guimarães.svg" title="vitória-de-guimarães.svg" height="32px" />
   </a>
 </div>
 
@@ -4953,5 +5297,25 @@
 <div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
   <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/university/yale.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/usa/university/yale.svg" alt="yale.svg" title="yale.svg" height="32px" />
+  </a>
+</div>
+
+## vietnam (3)
+
+### banks (3)
+
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/vietnam/banks/bidv.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/vietnam/banks/bidv.svg" alt="bidv.svg" title="bidv.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/vietnam/banks/tpbank.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/vietnam/banks/tpbank.svg" alt="tpbank.svg" title="tpbank.svg" height="32px" />
+  </a>
+</div>
+<div style="display:inline-flex;justify-content:center;align-items:center;width:48px">
+  <a href="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/vietnam/banks/vpbank.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/hieudoanm/react-icons/master/svg/vietnam/banks/vpbank.svg" alt="vpbank.svg" title="vpbank.svg" height="32px" />
   </a>
 </div>
