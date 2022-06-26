@@ -26,7 +26,7 @@ jobs:
       - name: Bundle Docs
         run: docsify init docs
       - name: Deploy GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@v4.2.5
+        uses: JamesIves/github-pages-deploy-action@v4.3.4
         with:
           branch: gh-pages
           folder: docs
