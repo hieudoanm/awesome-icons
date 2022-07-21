@@ -24,7 +24,7 @@ jobs:
       - name: Bundle Docs
         run: docsify init docs
       - name: Deploy GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@v4.3.4
+        uses: JamesIves/github-pages-deploy-action@v4.4.0
         with:
           token: ${{ secrets.GH_PAGES }}
           branch: gh-pages
